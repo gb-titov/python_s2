@@ -7,8 +7,6 @@ def get_sum(n):
     return sum
 
 
-
 num = int(input('Введите целое число: '))
 
 print(f'{num} => {get_sum(num)}')
-

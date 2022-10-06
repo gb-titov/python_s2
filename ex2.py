@@ -12,4 +12,5 @@ def MultiplyDigits(digit):
 
 
 num = int(input("Введите число: "))
+
 print(f'{num} => {MultiplyDigits(num)}')
